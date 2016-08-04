@@ -1,0 +1,52 @@
+_repo: Tractatus-Logico-Philosophicus_5740
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Russell, Bertrand
+    aliases:
+    - Russell, Bertrand A. W. (Bertrand Arthur William)
+    - Russell, Bertrand Russell, 3d Earl
+    birthdate: 1872
+    deathdate: 1970
+    gutenberg_agent_id: '355'
+    url: http://www.gutenberg.org/2009/agents/355
+    wikipedia: http://en.wikipedia.org/wiki/Bertrand_Russell
+  translator:
+    agent_name: Ogden, C. K. (Charles Kay)
+    aliases:
+    - Ogden, Charles Kay
+    - More, Adelyne
+    birthdate: &id001 1889
+    deathdate: 1957
+    gutenberg_agent_id: '36795'
+    url: http://www.gutenberg.org/2009/agents/36795
+creator:
+  author:
+    agent_name: Wittgenstein, Ludwig
+    birthdate: *id001
+    deathdate: 1951
+    gutenberg_agent_id: '1861'
+    url: http://www.gutenberg.org/2009/agents/1861
+    wikipedia: http://en.wikipedia.org/wiki/Ludwig_Wittgenstein
+description: ''
+gutenberg_bookshelf:
+- Mathematics
+- DE Sachbuch
+- Philosophy
+gutenberg_issued: '2010-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5740'
+language:
+- de
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Language and languages -- Philosophy'
+- !lcc 'B'
+- !lcsh 'Logic, Symbolic and mathematical'
+- GITenberg
+title: Tractatus Logico-Philosophicus
+url: http://www.gutenberg.org/ebooks/5740
