@@ -1,5 +1,5 @@
 _repo: Tractatus-Logico-Philosophicus_5740
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Russell, Bertrand
@@ -16,19 +16,24 @@ contributor:
     aliases:
     - Ogden, Charles Kay
     - More, Adelyne
-    birthdate: &id001 1889
+    birthdate: 1889
     deathdate: 1957
     gutenberg_agent_id: '36795'
     url: http://www.gutenberg.org/2009/agents/36795
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wittgenstein, Ludwig
-    birthdate: *id001
+    birthdate: 1889
     deathdate: 1951
     gutenberg_agent_id: '1861'
     url: http://www.gutenberg.org/2009/agents/1861
     wikipedia: http://en.wikipedia.org/wiki/Ludwig_Wittgenstein
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5740#Tractatus-Logico-Philosophicus
 gutenberg_bookshelf:
 - Mathematics
 - DE Sachbuch
